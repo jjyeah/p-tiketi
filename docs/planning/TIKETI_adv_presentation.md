@@ -1,10 +1,3 @@
----
-marp: true
-theme: gaia  # uncover보다 여유로움
-paginate: true
-**class: smaller**
----
-
 # 4팀 - 티켓팅 예약관리 플랫폼 “티케티(Tiketi)”
 
 ---
